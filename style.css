@@ -1,0 +1,7 @@
+body
+{
+    background-image: radial-gradient(yellow,orange,red);
+}
+hr {
+    border: dashed rgb(97, 19, 107);
+  }
